@@ -6,8 +6,8 @@
   "BannerEnabled": true,
   "InterstitialEnabled": true,
   "RewardEnabled": true,
-  "AppOpenEnabled": true,
-  "InterstitialCooldownSeconds": 0,
+  "AppOpenEnabled": false,
+  "InterstitialCooldownSeconds": 180,
   "RewardCooldownSeconds": 0,
   "AppOpenCooldownSeconds": 0
 }
