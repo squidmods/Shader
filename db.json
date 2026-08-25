@@ -7,7 +7,7 @@
   "InterstitialEnabled": true,
   "RewardEnabled": true,
   "AppOpenEnabled": true,
-  "InterstitialCooldownSeconds": 0,
+  "InterstitialCooldownSeconds": 180,
   "RewardCooldownSeconds": 0,
   "AppOpenCooldownSeconds": 0
 }
