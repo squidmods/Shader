@@ -4,7 +4,7 @@
   "RewardAds": "ca-app-pub-7497468228437677/2005959261",
   "AppOpen": "ca-app-pub-7497468228437677/1403324033",
   "BannerEnabled": true,
-  "InterstitialEnabled": true,
+  "InterstitialEnabled": false,
   "RewardEnabled": true,
   "AppOpenEnabled": true,
   "InterstitialCooldownSeconds": 180,
